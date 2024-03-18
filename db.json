@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "name": "Freela",
+      "amount": 300
+    },
+    {
+      "name": "Salário",
+      "amount": 3100,
+      "id": "3"
+    },
+    {
+      "id": "917d",
+      "name": "Igor Oliveira",
+      "amount": -30
+    }
+  ]
+}
